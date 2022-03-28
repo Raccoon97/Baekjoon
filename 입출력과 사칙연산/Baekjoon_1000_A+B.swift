@@ -21,4 +21,4 @@ import Foundation
 let nums = readLine()!
 let numSplit = nums.components(separatedBy: " ")
 
-print(Int(numSplit[0])! + Int(numSplit[1])!)
+print(Int(numSplit[0])! + Int(numSplit[1])!) 
