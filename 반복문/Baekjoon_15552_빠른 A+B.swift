@@ -38,6 +38,8 @@ Python을 사용하고 있다면, input 대신 sys.stdin.readline을 사용할 �
 
 Swift 의 경우에는 fread 를 이용해서 여러 바이트를 한 번에 읽고, 정수를 읽어야 할 때마다 미리 읽어둔 문자열로부터 정수를 파싱해서 쓰면 된다.
 
+직접 클래스를 구현하면서 빠른 입,출력을 스스로 재현해보자!
+
 클래스 출처 : https://gist.github.com/JCSooHwanCho/30be4b669321e7a135b84a1e9b075f88
 
 """
